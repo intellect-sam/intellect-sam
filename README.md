@@ -1,16 +1,50 @@
-### Hi there 👋
+# Aluko Olakunle Samuel
+ 
+**`Software Engineer (Web Developer/Front-End Developer/Designer)`**
 
-<!--
-**intellect-sam/intellect-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as I can to have the ability to provide and help the entire world with technology advancing projects/products. 
+I'm currently working on personal projects and improving on everything Front-End related.
 
-Here are some ideas to get you started:
+Beyond technical skills, I am a collaborative team player, capable of effectively communicating with designers, product managers, and backend developers to ensure smooth project execution. I thrive in fast-paced environments and am adaptable to evolving technologies and trends in the frontend landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a genuine passion for frontend development, I continuously stay up to date with the latest industry advancements and actively seek out opportunities to enhance my skill set. I am committed to delivering exceptional user experiences and contributing to the success of forward-thinking organizations.
+
+<h2>🧰 Languages and Tools</h2>
+
+<img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Sass" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+<br />
+<br />
+ 
+<h2>📺 Latest YouTube Videos</h2>
+ 
+
+<h2>🌴 Connect with me:</h2>
+ 
+[![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./imgs/youtube-light.svg)](https://www.youtube.com/@codewithfred#gh-light-mode-only)
+[![website](./imgs/youtube-dark.svg)](https://www.youtube.com/@codewithfred#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-light-mode-only)
+[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only)
+
+<h2>⚡ Stats<h2>
+
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
