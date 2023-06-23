@@ -28,6 +28,6 @@ With a genuine passion for frontend development, I continuously stay up to date 
 
 <h2>⚡ Stats<h2>
 
-![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=intellect-sam&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Sam GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-intellect&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-intellect&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
