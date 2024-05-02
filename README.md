@@ -45,7 +45,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 <img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
-
+<br/>
 <hr>
 
 <h3>Contact Me</h3>
