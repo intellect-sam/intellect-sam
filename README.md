@@ -8,8 +8,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 ✨ Frontend Web Developer
 
-✨ Enjoys writing tutorials for developers.
-
 ✨ Enjoys building apps in frameworks like React and React Native.
 
 <hr>
