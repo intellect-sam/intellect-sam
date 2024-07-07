@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Aluko Samuel.</h2>
 
-I'm a software developer, specializing in building exceptional websites and mobile applications.
+I'm a Software Engineer, specializing in building exceptional websites and mobile applications.
 
 ## About me
 
